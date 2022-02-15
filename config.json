@@ -1,0 +1,9 @@
+{
+	"ip":"theosmp.aternos.me",
+	"port": "47922",
+	"name": "SMPBot",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
